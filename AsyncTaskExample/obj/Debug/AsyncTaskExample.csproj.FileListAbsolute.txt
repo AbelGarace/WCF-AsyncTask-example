@@ -1,0 +1,16 @@
+c:\users\a.garcia\documents\visual studio 2015\Projects\AsyncTaskExample\AsyncTaskExample\obj\Debug\AsyncTaskExample.csprojResolveAssemblyReference.cache
+c:\users\a.garcia\documents\visual studio 2015\Projects\AsyncTaskExample\AsyncTaskExample\obj\Debug\MainWindow.g.cs
+c:\users\a.garcia\documents\visual studio 2015\Projects\AsyncTaskExample\AsyncTaskExample\obj\Debug\App.g.cs
+c:\users\a.garcia\documents\visual studio 2015\Projects\AsyncTaskExample\AsyncTaskExample\obj\Debug\AsyncTaskExample_MarkupCompile.cache
+c:\users\a.garcia\documents\visual studio 2015\Projects\AsyncTaskExample\AsyncTaskExample\obj\Debug\AsyncTaskExample_MarkupCompile.lref
+c:\users\a.garcia\documents\visual studio 2015\Projects\AsyncTaskExample\AsyncTaskExample\bin\Debug\AsyncTaskExample.exe.config
+c:\users\a.garcia\documents\visual studio 2015\Projects\AsyncTaskExample\AsyncTaskExample\bin\Debug\AsyncTaskExample.exe
+c:\users\a.garcia\documents\visual studio 2015\Projects\AsyncTaskExample\AsyncTaskExample\bin\Debug\AsyncTaskExample.pdb
+c:\users\a.garcia\documents\visual studio 2015\Projects\AsyncTaskExample\AsyncTaskExample\bin\Debug\LoadingControl.exe
+c:\users\a.garcia\documents\visual studio 2015\Projects\AsyncTaskExample\AsyncTaskExample\bin\Debug\LoadingControl.pdb
+c:\users\a.garcia\documents\visual studio 2015\Projects\AsyncTaskExample\AsyncTaskExample\obj\Debug\MainWindow.baml
+c:\users\a.garcia\documents\visual studio 2015\Projects\AsyncTaskExample\AsyncTaskExample\obj\Debug\AsyncTaskExample.g.resources
+c:\users\a.garcia\documents\visual studio 2015\Projects\AsyncTaskExample\AsyncTaskExample\obj\Debug\AsyncTaskExample.Properties.Resources.resources
+c:\users\a.garcia\documents\visual studio 2015\Projects\AsyncTaskExample\AsyncTaskExample\obj\Debug\AsyncTaskExample.csproj.GenerateResource.Cache
+c:\users\a.garcia\documents\visual studio 2015\Projects\AsyncTaskExample\AsyncTaskExample\obj\Debug\AsyncTaskExample.exe
+c:\users\a.garcia\documents\visual studio 2015\Projects\AsyncTaskExample\AsyncTaskExample\obj\Debug\AsyncTaskExample.pdb
